@@ -8,10 +8,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/shivani8305/DSA-Java/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/shivani8305/DSA-Java/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/shivani8305/DSA-Java/tree/master/0073-set-matrix-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/shivani8305/DSA-Java/tree/master/0287-find-the-duplicate-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/shivani8305/DSA-Java/tree/master/0031-next-permutation) |
+| [0287-find-the-duplicate-number](https://github.com/shivani8305/DSA-Java/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,4 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/shivani8305/DSA-Java/tree/master/0056-merge-intervals) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/shivani8305/DSA-Java/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/shivani8305/DSA-Java/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
