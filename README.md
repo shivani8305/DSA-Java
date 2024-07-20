@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/shivani8305/DSA-Java/tree/master/0031-next-permutation) |
 | [0287-find-the-duplicate-number](https://github.com/shivani8305/DSA-Java/tree/master/0287-find-the-duplicate-number) |
+| [0908-middle-of-the-linked-list](https://github.com/shivani8305/DSA-Java/tree/master/0908-middle-of-the-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,4 +60,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/shivani8305/DSA-Java/tree/master/0206-reverse-linked-list) |
+| [0908-middle-of-the-linked-list](https://github.com/shivani8305/DSA-Java/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
