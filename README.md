@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/shivani8305/DSA-Java/tree/master/0074-search-a-2d-matrix) |
 | [0229-majority-element-ii](https://github.com/shivani8305/DSA-Java/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/shivani8305/DSA-Java/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/shivani8305/DSA-Java/tree/master/0300-longest-increasing-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/shivani8305/DSA-Java/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/shivani8305/DSA-Java/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/shivani8305/DSA-Java/tree/master/0300-longest-increasing-subsequence) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -63,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/shivani8305/DSA-Java/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/shivani8305/DSA-Java/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/shivani8305/DSA-Java/tree/master/0908-middle-of-the-linked-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/shivani8305/DSA-Java/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
