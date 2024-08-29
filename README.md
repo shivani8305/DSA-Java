@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/shivani8305/DSA-Java/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/shivani8305/DSA-Java/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/shivani8305/DSA-Java/tree/master/0300-longest-increasing-subsequence) |
+| [1310-watering-plants](https://github.com/shivani8305/DSA-Java/tree/master/1310-watering-plants) |
 ## Two Pointers
 |  |
 | ------- |
@@ -71,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/shivani8305/DSA-Java/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/shivani8305/DSA-Java/tree/master/0300-longest-increasing-subsequence) |
+## Simulation
+|  |
+| ------- |
+| [1310-watering-plants](https://github.com/shivani8305/DSA-Java/tree/master/1310-watering-plants) |
 <!---LeetCode Topics End-->
